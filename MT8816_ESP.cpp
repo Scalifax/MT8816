@@ -1,6 +1,6 @@
 /*
     MT8816_ESP.h - Library for managing the MT8816 chip with an ESP32 microcontroller.
-    Created by Victor Alberti, April 4, 2024.
+    Created by Victor Alberti, April 28, 2024.
 */
 
 #include "MT8816_ESP.h"
