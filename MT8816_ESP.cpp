@@ -92,8 +92,8 @@ void MT8816::setConnection(int x, int y)
     digitalWrite(PIN_AY1, cbinY[1] - '0');
     digitalWrite(PIN_AY2, cbinY[0] - '0');
 
-    digitalWrite(PIN_AX0, cbinX[2] - '0');
-    digitalWrite(PIN_AX1, cbinX[3] - '0');
+    digitalWrite(PIN_AX0, cbinX[3] - '0');
+    digitalWrite(PIN_AX1, cbinX[2] - '0');
     digitalWrite(PIN_AX2, cbinX[1] - '0');
     digitalWrite(PIN_AX3, cbinX[0] - '0');
 
